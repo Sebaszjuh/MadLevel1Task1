@@ -4,5 +4,10 @@
     <string name="higher">Higher</string>
     <string name="lower">Lower</string>
     <string name="equal">Equal</string>
-    <string name="lastThrow">Last throw is: %d</string>
+    <string name="reset">Reset</string>
+    <string name="lastDiceThrow">Last throw is: %d</string>
+    <string name="correct">Correct answer</string>
+    <string name="incorrect">Incorrect answer</string>
+    <string name="viewScore">Score: %d</string>
+    <string name="dice">Dice</string>
 </resources>
